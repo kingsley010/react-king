@@ -1,3 +1,10 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+
+PAT FOR AZURE DEVOPS
+lbkfvzuepqrxikcvgvp4e3nmwymvb65mlnqbbvgv5vappcox4lsa
+
+PAT FOR GITHUB - Kingsley010
+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
