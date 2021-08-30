@@ -6,8 +6,8 @@ import './HeroSection.css';
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <image src='/images/img-home.mp4' />
-            <h1> LIFE </h1>
+            <image src='/images/img-home.jpg' />
+            <h1> NATURE </h1>
             <p> LIVE </p>
             <div className="hero-btns">
                 <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'> GET STARTED </Button>
