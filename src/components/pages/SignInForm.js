@@ -1,7 +1,7 @@
 import React from 'react';
 import validate from '../validateInfo';
 import useForm from '../useForm';
-import './SignUp.css';
+import './SignIn.css';
 
 const Form = ({ submitForm }) => {
   const { handleChange, handleSubmit, values, errors } = useForm(
