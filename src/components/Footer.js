@@ -66,7 +66,7 @@ function Footer() {
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
               TOUR
-              <i class='fab fa-typo3' />
+              <i class='fab fa-typo1' />
             </Link>
           </div>
           <small class='website-rights'>KINGSLEY OBIOHA © 2021</small>
