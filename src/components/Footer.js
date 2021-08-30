@@ -69,7 +69,7 @@ function Footer() {
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>TOUR © 2021</small>
+          <small class='website-rights'>KINGSLEY OBIOHA © 2021</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
